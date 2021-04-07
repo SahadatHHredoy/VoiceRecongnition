@@ -1,0 +1,7 @@
+D:\Projects\VoiceRecognized\VoiceRecognized\bin\Debug\VoiceRecognized.exe.config
+D:\Projects\VoiceRecognized\VoiceRecognized\bin\Debug\VoiceRecognized.exe
+D:\Projects\VoiceRecognized\VoiceRecognized\bin\Debug\VoiceRecognized.pdb
+D:\Projects\VoiceRecognized\VoiceRecognized\obj\Debug\VoiceRecognized.csprojAssemblyReference.cache
+D:\Projects\VoiceRecognized\VoiceRecognized\obj\Debug\VoiceRecognized.csproj.CoreCompileInputs.cache
+D:\Projects\VoiceRecognized\VoiceRecognized\obj\Debug\VoiceRecognized.exe
+D:\Projects\VoiceRecognized\VoiceRecognized\obj\Debug\VoiceRecognized.pdb
